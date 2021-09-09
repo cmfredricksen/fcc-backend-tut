@@ -11,5 +11,6 @@
     "type": "git",
     "url": "https://idontknow/todo.git"
   },
-  "author": "cm fredricksen"
+  "author": "cm fredricksen",
+  "description": "Backend Tutorial Project"
 }
